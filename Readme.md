@@ -4,9 +4,14 @@
 
 ![FlorixNexus Banner](https://img.shields.io/badge/FlorixNexus-Digital%20Solutions-a855f7?style=for-the-badge&logo=dotnet&logoColor=white)
 
+> 🔒 **Proprietary Source Code**
+>
+> This project is the intellectual property of **FlorisNexus Digital Solutions**. It is shared here for **portfolio viewing purposes only**. Unauthorized use, modification, or distribution is strictly prohibited.
+>
+> 📄 Please review the full [License & Copyright](LICENSE.md).
+
 **Modern Digital Solutions & .NET Development**
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,7 +33,7 @@
 - [Customization](#-customization)
 - [Browser Support](#-browser-support)
 - [Contributing](#-contributing)
-- [License](#-license)
+- [License & Copyright](#-license-&-copyright)
 - [Contact](#-contact)
 
 ---
@@ -246,27 +251,15 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
+## 📄 License & Copyright
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+**© 2025 FlorisNexus.**
 
-```
-MIT License
+This source code is the proprietary property of **FlorisNexus Digital Solutions**.
 
-Copyright (c) 2025 FlorixNexus
+It is provided here for **portfolio viewing purposes only**. You may not reuse, modify, distribute, or sell this code, either in part or in whole, for commercial or non-commercial purposes without explicit written permission from the author.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
+> **Unauthorized copying of this file, via any medium, is strictly prohibited.**
 
 ## 📞 Contact
 
